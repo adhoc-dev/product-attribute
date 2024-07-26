@@ -54,7 +54,6 @@ To use this module you need to:
 #. You will not see the *Cost* field unless you follow the *Configuration* steps and get read permissions.
 #. You will not be able to edit it unless you are granted write permissions.
 
-
 Known issues / Roadmap
 ======================
 
